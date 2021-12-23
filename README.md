@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UnderneathTheTales
+- 👋 Hi, I’m Lin Wen... also known as @UnderneathTheTales
 - 👀 I’m interested in games.
 - 🌱 I’m currently learning python, as well as Ren'Py.
 - 💞️ I’m looking to collaborate on... uh, nevermind that.
